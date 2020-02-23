@@ -14,6 +14,7 @@ This is iOS Testing challenge. You have to make this project with Swift 5. In th
 * Both Y-axis fix while **Pinch-to-Zoom** and **Scroll**
 * X-axis is changeable according to **Scale**
 * When sample data of **Brix-axis** is under Zero, Don't **fill in DOT**
+* You can get more information in **Sample Video**
 ## Example Video & Picture
 Please check this Video & Picture. 
 ![Challenge_Img_01](https://github.com/WilliamEven/iOS_Swift_Challenge/blob/master/IMG_1636.PNG)
