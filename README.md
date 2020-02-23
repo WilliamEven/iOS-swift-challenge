@@ -18,10 +18,10 @@ Explain more in the detail section.
 * Make this project with **swift 5**
 * **Bouncing** on Both Temp & Brix Y-axises, but can not disappear even it content offset goes minus.
 * Both Y-axises can not disappear while **Pinch-to-Zoom** and **Scroll**
-* The number of X-axis labels and horizontal lines is flexible according to **Scale**, you can specify Max/Min/Default scale factor in your mind.
+* The number of X-axis labels and horizontal lines is flexible according to **Scale**, you can specify Max/Min/Default scale factor in mind.
 * When sample data of **Brix-axis** is under Zero, Don't **fill in DOT**
-* Connect points with line, but connect with dash line, if there is not sample value at that day.
-* You can get more information in [Video](https://github.com/WilliamEven/iOS_Swift_Challenge/blob/master/CZEY7758.MP4)
+* Connect points with **Line**, but connect with **Dash line**, if no sample value on that day.
+* You can get more information via [Video](https://github.com/WilliamEven/iOS_Swift_Challenge/blob/master/CZEY7758.MP4)
 ## Data Structure
 * Please try to use Swift-specified modern techniques such as Closure, Enum, Collection Operator(map, filter, reduce), nested function, defer, guard and etc.
 * Model
