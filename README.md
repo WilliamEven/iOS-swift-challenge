@@ -6,6 +6,7 @@ In this project, we will focus on the flexible of the x-axis value according to 
 Any of 3rd-party libraries are not allowed, and just full-customize iOS default UI components (i.e. UIView, UIScrollView and CALayer)
 
 iOS dark mode support: would be a bonus, but not essential.
+
 Explain more in the detail section.
 ## What we expect from your code
 * Clean code
@@ -43,6 +44,9 @@ Please check these screenshots.
 ![Challenge_Img_01](https://github.com/WilliamEven/iOS_Swift_Challenge/blob/master/IMG_1636.PNG)
 ![Challenge_Img_02](https://github.com/WilliamEven/iOS_Swift_Challenge/blob/master/IMG_1637.PNG)
 ![Challenge_Img_03](https://github.com/WilliamEven/iOS_Swift_Challenge/blob/master/IMG_1638.PNG)
+
+## Estimating Time
+12 hours
 ## Delivery
 After finish project, share your git repo url to us.
 
