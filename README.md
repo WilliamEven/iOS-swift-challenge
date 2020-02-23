@@ -38,7 +38,7 @@ struct Sample {
 ```
 * Assumption
 
-`date` in samples are not in ordered sequence. You may need to sort it before drawing.
+`date` in samples is not in an ordered sequence. You may need to sort it before drawing.
 ## Example Picture
 Please check these screenshots. 
 ![Challenge_Img_01](https://github.com/WilliamEven/iOS_Swift_Challenge/blob/master/IMG_1636.PNG)
