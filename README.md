@@ -49,6 +49,6 @@ Please check these screenshots.
 ## Estimate
 12 hours
 ## Delivery
-After finish project, share your git repo url to us.
+Share your git repo url to us.
 
 Thanks
