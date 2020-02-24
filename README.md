@@ -46,7 +46,7 @@ Please check these screenshots.
 ![Challenge_Img_02](https://github.com/WilliamEven/iOS_Swift_Challenge/blob/master/IMG_1637.PNG)
 ![Challenge_Img_03](https://github.com/WilliamEven/iOS_Swift_Challenge/blob/master/IMG_1638.PNG)
 
-## Estimating Time
+## Estimate
 12 hours
 ## Delivery
 After finish project, share your git repo url to us.
